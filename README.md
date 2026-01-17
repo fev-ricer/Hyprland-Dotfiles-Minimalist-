@@ -25,7 +25,8 @@ feh.
 Installation / Установка
 
 Update 
-`sudo apt update && sudo apt upgrade` 
+```bash
+sudo apt update && sudo apt upgrade
 Clone repo 
 `git clone https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-` 
 Cd 
