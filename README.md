@@ -1,7 +1,10 @@
-Screenshots
+Wofi % Powermenu
 ![Wofi & Powermenu](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr2.png)
+Floating windows
 ![Floating windows]([path/to/your/image.png](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr3.png))
+Clear workspace
 ![Clear workspace]([path/to/your/image.png](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr1.png))
+IDK
 ![IDK]([path/to/your/image.png](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr4.png))
 
 
