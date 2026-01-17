@@ -25,9 +25,9 @@ feh.
 Installation / Установка
 
 `sudo apt update && sudo apt upgrade`
-{git clone https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-}
-{cd ~//Hyprland-Dotfiles-Minimalist-}
-{sudo mv ~//Hyprland-Dotfiles-Minimalist-/hypr ~/.config/}
-{sudo mv ~//Hyprland-Dotfiles-Minimalist-/btop ~/.config/}
-{sudo mv ~//Hyprland-Dotfiles-Minimalist-/wofi ~/.config/}
-{sudo mv ~//Hyprland-Dotfiles-Minimalist-/kitty ~/.config/}
+`git clone https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-`
+`cd ~//Hyprland-Dotfiles-Minimalist-`
+`sudo mv ~//Hyprland-Dotfiles-Minimalist-/hypr ~/.config/`
+`sudo mv ~//Hyprland-Dotfiles-Minimalist-/btop ~/.config/`
+`sudo mv ~//Hyprland-Dotfiles-Minimalist-/wofi ~/.config/`
+`sudo mv ~//Hyprland-Dotfiles-Minimalist-/kitty ~/.config/`
