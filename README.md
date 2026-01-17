@@ -1,15 +1,23 @@
+Screenshots
+![Wofi & Powermenu](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr2.png)
+![Floating windows]([path/to/your/image.png](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr3.png))
+![Clear workspace]([path/to/your/image.png](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr1.png))
+![IDK]([path/to/your/image.png](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr4.png))
+
+
 Dependencies / Зависимости
-mc (Midnight Commander) 
-cava 
-btop 
-mako 
-bash 
-kitty 
-swaybg 
-waybar 
-wofi 
-hyprctl 
-feh 
+mc (Midnight Commander),
+cava,
+btop,
+mako,
+bash,
+kitty, 
+swaybg, 
+waybar,
+wofi,
+
+hyprctl,
+feh.
 
 
 
