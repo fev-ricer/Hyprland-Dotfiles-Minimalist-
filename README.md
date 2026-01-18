@@ -77,4 +77,4 @@ sudo mv ~//Hyprland-Dotfiles-Minimalist-/mako ~/.config/
 _Пожалуйста, если у тебя есть вопросы по поводу установки, или что то не работает, то напиши мне в тг @sociz, я постараюсь быстро ответить и если что сразу всё исправлю._
 
 _**Thank you! / Спасибо большое!**_
-![Thorfinn](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fpfps.gg%2Fpfp%2F7863-thorfinn-vinland-saga&ved=0CBYQjRxqFwoTCKjI6bXIlZIDFQAAAAAdAAAAABAj&opi=89978449)
+![Thorfinn](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2699-thorfinn-vinland-saga.png)
