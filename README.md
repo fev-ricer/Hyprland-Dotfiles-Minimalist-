@@ -37,7 +37,7 @@ _Keybindings / Бинды_
 
 
 Installation / Установка 
-_Dont forger to install the dependencies_
+ _Dont forger to install the dependencies_
 
 Update 
 ```bash
