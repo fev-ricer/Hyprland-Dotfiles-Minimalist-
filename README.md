@@ -20,9 +20,24 @@ waybar,
 wofi,
 swaynag,
 hyprctl,
+firefox,
+grimshot,
+network-manager-gnome,
 feh.
 
+_Keybindings / Бинды_
+| Bind | Command |
+| --- | --- |
+| Win+Q | Open kitty (terminal emulator) |
+| Win+R | Start wofi (appmenu) |
+| Win+C | Close window |
+| Win+B | Open Firefox |
+| PrtScreen| Do creenshot |
+| Win+1, Win+2, etc... | Change workspaces |
+
+
 Installation / Установка
+_Dont forger ro install the dependencies_
 
 Update 
 ```bash
@@ -55,3 +70,7 @@ sudo mv ~//Hyprland-Dotfiles-Minimalist-/kitty ~/.config/
 Mv 
 ```bash
 sudo mv ~//Hyprland-Dotfiles-Minimalist-/mako ~/.config/
+```
+
+***ДЛЯ РУССКИХ!***
+_Пожалуйста, если у тебя есть вопросы по поводу установки, или что то не работает, то напиши мне в тг @sociz, я постараюсь быстро ответить и если что сразу всё исправлю._
