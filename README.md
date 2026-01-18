@@ -36,7 +36,8 @@ _Keybindings / Бинды_
 | Win+1, Win+2, etc... | Change workspaces |
 
 
-Installation / Установка 
+Installation / Установка
+
  _Dont forger to install the dependencies_
 
 Update 
