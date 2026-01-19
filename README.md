@@ -1,11 +1,11 @@
 _Wofi % Powermenu_
-![Wofi & Powermenu](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr2.png)
+![Wofi & Powermenu]https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A27%3A46%2C061692925%2B02%3A00.png)
 _Opened windows_
-![Floating windows](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr3.png)
+![Floating windows](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A22%3A48%2C822822124%2B02%3A00.png)
 _Clear workspace_
-![Clear workspace](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr1.png)
+![Clear workspace](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A33%3A21%2C122292939%2B02%3A00.png)
 _Mako, cava, neofetch_
-![IDK](https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-/blob/main/Screenshots/scr4.png)
+![IDK](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A26%3A52%2C002622495%2B02%3A00.png)
 
 
 _Dependencies / Зависимости_
