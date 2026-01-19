@@ -1,5 +1,5 @@
 _Wofi % Powermenu_
-![Wofi & Powermenu]https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A27%3A46%2C061692925%2B02%3A00.png)
+![Wofi & Powermenu](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A27%3A46%2C061692925%2B02%3A00.png)
 _Opened windows_
 ![Floating windows](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A22%3A48%2C822822124%2B02%3A00.png)
 _Clear workspace_
