@@ -23,6 +23,7 @@ hyprctl,
 firefox,
 grimshot,
 network-manager-gnome,
+variety,
 feh.
 
 _Keybindings / Бинды_
