@@ -7,7 +7,7 @@ _Clear workspace_
 _Mako, cava, neofetch_
 ![IDK](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A26%3A52%2C002622495%2B02%3A00.png)
 
-_Last Update_
+_Last Update_ 
 ***Reworked powermenu.***
 
 _Dependencies / Зависимости_
