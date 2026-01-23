@@ -56,6 +56,10 @@ cd ~//Hyprland-Dotfiles-Minimalist-
 ```
 Mv 
 ```bash
+sudo mv ~//Hyprland-Dotfiles-Minimalist-/Wallpaper ~/
+```
+Mv 
+```bash
 sudo mv ~//Hyprland-Dotfiles-Minimalist-/hypr ~/.config/
 ```
 Mv 
@@ -73,6 +77,10 @@ sudo mv ~//Hyprland-Dotfiles-Minimalist-/kitty ~/.config/
 Mv 
 ```bash
 sudo mv ~//Hyprland-Dotfiles-Minimalist-/mako ~/.config/
+```
+Mv 
+```bash
+sudo mv ~//Hyprland-Dotfiles-Minimalist-/powermenu ~/.config/
 ```
 
 ***ДЛЯ РУССКИХ!***
