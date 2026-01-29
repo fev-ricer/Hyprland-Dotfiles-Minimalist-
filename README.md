@@ -10,23 +10,22 @@ _Mako, cava, neofetch_
 _Last Update_ - 
 ***Were added screen recording.***
 
-_Dependencies / Зависимости_
-mc (Midnight Commander),
-cava,
-btop,
-mako,
-kitty, 
-swaybg, 
-waybar,
-wofi,
-swaynag,
-hyprctl,
+mc 
+cava 
+btop 
+mako 
+kitty
+swaybg
+waybar
+wofi
+swaynag
+hyprctl
 firefox,
-grimshot,
-network-manager-gnome,
-wf-recorder,
-variety,
-feh.
+grimshot
+network-manager-gnome
+wf-recorder
+variety
+feh
 
 _Keybindings / Бинды_
 | Bind | Command |
@@ -39,6 +38,7 @@ _Keybindings / Бинды_
 | Win+1, Win+2, etc... | Change workspaces |
 | Win+E | Start recording |
 | Win+G | Stop recording (with message about ending |
+| Win+M | Exit session |
 
 
 Installation / Установка
@@ -48,6 +48,10 @@ Installation / Установка
 Update 
 ```bash
 sudo apt update && sudo apt upgrade
+```
+Dependencies
+```bash
+sudo apt install mc cava btop mako kitty swaybg waybar wofi swaynag hyprctl firefox grimshot network-manager-gnome wf-recorder variety feh
 ```
 Clone repo 
 ```bash
