@@ -8,7 +8,7 @@ _Mako, cava, neofetch_
 ![IDK](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A26%3A52%2C002622495%2B02%3A00.png)
 
 _Last Update_ - 
-***Reworked powermenu.***
+***Were added screen recording.***
 
 _Dependencies / Зависимости_
 mc (Midnight Commander),
@@ -24,6 +24,7 @@ hyprctl,
 firefox,
 grimshot,
 network-manager-gnome,
+wf-recorder,
 variety,
 feh.
 
@@ -36,6 +37,8 @@ _Keybindings / Бинды_
 | Win+B | Open Firefox |
 | PrtScreen| Do creenshot |
 | Win+1, Win+2, etc... | Change workspaces |
+| Win+E | Start recording |
+| Win+G | Stop recording (with message about ending |
 
 
 Installation / Установка
