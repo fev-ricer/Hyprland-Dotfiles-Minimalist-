@@ -6,9 +6,11 @@ _Clear workspace_
 ![Clear workspace](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A33%3A21%2C122292939%2B02%3A00.png)
 _Mako, cava, neofetch_
 ![IDK](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-01-19T18%3A26%3A52%2C002622495%2B02%3A00.png)
+_New volume menu_
+![HATE-HUMANITY](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-02-01T21%3A04%3A58%2C884337028%2B02%3A00.png)
 
 _Last Update_ - 
-***Were added screen recording.***
+***Were added volume menu.***
 
 mc 
 cava 
@@ -76,6 +78,10 @@ sudo mv ~//Hyprland-Dotfiles-Minimalist-/btop ~/.config/
 Mv 
 ```bash
 sudo mv ~//Hyprland-Dotfiles-Minimalist-/wofi ~/.config/
+```
+Mv 
+```bash
+sudo mv ~//Hyprland-Dotfiles-Minimalist-/volumemenu ~/.config/
 ```
 Mv 
 ```bash
