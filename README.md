@@ -11,7 +11,7 @@ _New volume menu_
 ![HATE-HUMANITY](https://github.com/fev-ricer/Pics-For-My-Projects/blob/main/2026-02-01T21%3A04%3A58%2C884337028%2B02%3A00.png)
 
 _Last Update_ - 
-***Were added volume menu.***
+***Installation has been automated***
 
 mc 
 cava 
