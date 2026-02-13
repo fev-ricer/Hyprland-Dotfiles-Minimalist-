@@ -48,53 +48,23 @@ Installation / Установка
 
  _Dont forger to install the dependencies_
 
-Update 
-```bash
-sudo apt update && sudo apt upgrade
+***Installing***
+1. _Dependencies_
 ```
-Dependencies
-```bash
-sudo apt install mc cava btop mako kitty swaybg waybar wofi swaynag hyprctl firefox grimshot network-manager-gnome wf-recorder variety feh
+cd ~/hyprland-dotfiles-minimalist-/
 ```
-Clone repo 
-```bash
-git clone https://github.com/fev-ricer/Hyprland-Dotfiles-Minimalist-
 ```
-Cd 
-```bash
-cd ~//Hyprland-Dotfiles-Minimalist-
+chmod +x dependencies.sh
 ```
-Mv 
-```bash
-sudo mv ~//Hyprland-Dotfiles-Minimalist-/Wallpaper ~/
 ```
-Mv 
-```bash
-sudo mv ~//Hyprland-Dotfiles-Minimalist-/hypr ~/.config/
+./dependencies.sh
 ```
-Mv 
-```bash
-sudo mv ~//Hyprland-Dotfiles-Minimalist-/btop ~/.config/
+2. _Installing dots_
 ```
-Mv 
-```bash
-sudo mv ~//Hyprland-Dotfiles-Minimalist-/wofi ~/.config/
+chmod +x install.sh
 ```
-Mv 
-```bash
-sudo mv ~//Hyprland-Dotfiles-Minimalist-/volumemenu ~/.config/
 ```
-Mv 
-```bash
-sudo mv ~//Hyprland-Dotfiles-Minimalist-/kitty ~/.config/
-```
-Mv 
-```bash
-sudo mv ~//Hyprland-Dotfiles-Minimalist-/mako ~/.config/
-```
-Mv 
-```bash
-sudo mv ~//Hyprland-Dotfiles-Minimalist-/powermenu ~/.config/
+./install.sh
 ```
 
 ***ДЛЯ РУССКИХ!***
